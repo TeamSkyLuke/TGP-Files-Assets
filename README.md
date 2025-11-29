@@ -1,3 +1,6 @@
+## Games
+- Cookie Clicker
+
 # Credits
 - Thanks To [UGS Files](https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/) ([bubbls](https://github.com/bubbls), [genizy](https://github.com/genizy)) For Some Of The Games And Assets.
 - Thanks To [ChatGPT](https://chatgpt.com), [Cluade](https://claude.ai/), [Gemini](http://gemini.google.com/), And [Lovable](http://lovable.dev/) For Coding, Music, AI Help, Images, And Much More.
