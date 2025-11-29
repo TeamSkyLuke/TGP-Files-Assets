@@ -1,4 +1,4 @@
-## Games
+### Games
 - [Cookie Clicker](https://github.com/TeamSkyLuke/TGP-Files-Assets/blob/main/cookie_clicker/index.html)
 
 # Credits
