@@ -1,9 +1,10 @@
 ajax.js
-showads.js
 base64.js
+cookieconsent.min.js
 DungeonGen.js
 dungeons.js
 excanvas.compiled.js
+fbevents.js
 main.js
 minigameGarden.js
 minigameGrimoire.js
